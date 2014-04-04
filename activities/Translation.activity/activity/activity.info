@@ -1,0 +1,6 @@
+[Activity]
+name = Translation
+activity_version = 5
+bundle_id = org.olpcfrance.Translation
+exec = sugar-activity-web
+icon = activity-icon
